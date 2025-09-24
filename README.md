@@ -8,14 +8,12 @@ seguindo os princípios **FAIR (Findable, Accessible, Interoperable, Reusable)**
 ---
 
 ## 📂 Estrutura do repositório
-- `rainfall_variability/` → análises de variabilidade pluviométrica (ex.: Franca, Mococa)
+- `rainfall_variability/` → análises de variabilidade pluviométrica
 - `drought_vulnerability/` → construção de índices compostos sociais e climáticos
 - `mann_kendall_trends/` → testes de tendência e homogeneidade (Mann-Kendall, Pettitt, SU, CDD)
 - `coffee_risk_analysis/` → análise de risco climático em regiões cafeeiras
 - `crop_water_content/` → correlação entre clima e conteúdo relativo de água em cafeeiros
-- `climate_review_tools/` → scripts auxiliares de bibliometria e revisão
 - `climaterna_dataset/` → integração de dados de clima, saúde e poluição (BR-DWGD + séries temporais)
-- `urban_heat_island/` → análises de Ilha de Calor Urbana (sensores + uso do solo)
 - `utils/` → funções gerais de leitura, limpeza e visualização
 
 ---
