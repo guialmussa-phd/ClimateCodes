@@ -1,7 +1,7 @@
 # Climate and Statistical Analysis Scripts
 
 Este repositório reúne scripts e notebooks desenvolvidos em análises climatológicas e estatísticas
-associadas a diferentes artigos científicos publicados entre 2020 e 2025.  
+associadas a diferentes artigos científicos publicados por mim e meus colaboradores. 
 O objetivo é disponibilizar métodos de análise de forma **aberta, reprodutível e didática**, 
 seguindo os princípios **FAIR (Findable, Accessible, Interoperable, Reusable)**.
 
