@@ -13,8 +13,6 @@ seguindo os princípios **FAIR (Findable, Accessible, Interoperable, Reusable)**
 - `mann_kendall_trends/` → testes de tendência e homogeneidade (Mann-Kendall, Pettitt, SU, CDD)
 - `coffee_risk_analysis/` → análise de risco climático em regiões cafeeiras
 - `crop_water_content/` → correlação entre clima e conteúdo relativo de água em cafeeiros
-- `climaterna_dataset/` → integração de dados de clima, saúde e poluição (BR-DWGD + séries temporais)
-- `utils/` → funções gerais de leitura, limpeza e visualização
 
 ---
 
